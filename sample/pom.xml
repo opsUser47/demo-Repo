@@ -31,7 +31,7 @@
         <configuration>
         <archive>
             <addMavenDescriptor>false</addMavenDescriptor>
-          </archive>
+        </archive>
           <warSourceDirectory>WebContent</warSourceDirectory>
         </configuration>
       </plugin>
