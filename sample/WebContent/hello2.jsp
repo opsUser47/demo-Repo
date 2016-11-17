@@ -17,7 +17,7 @@ application. It is to be used for displaying change and code comit
 </tr>
 </table>
 
-<%= new String("Hello CI/CD folks!") %>
+<%= new String("Hello CI/CD full try folks!") %>
 <%= new String("Doing a full Check if everything works!!!") %>
 
 </body>
