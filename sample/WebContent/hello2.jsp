@@ -11,8 +11,7 @@
 </td>
 <td>
 <h1>Second Page</h1>
-This is the output of a JSP page that is part of the Hello, World
-application. It is to be used for displaying change and code comit
+A final check......
 </td>
 </tr>
 </table>
