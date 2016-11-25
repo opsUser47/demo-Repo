@@ -12,8 +12,7 @@
 <td>
 <h1>Second Page</h1>
 A final check......
-Lets have some fun....
-Again some changes....
+For demo Purpose
 </td>
 </tr>
 </table>
