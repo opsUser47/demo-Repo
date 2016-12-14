@@ -11,8 +11,7 @@
 </td>
 <td>
 <h1>Second Page</h1>
-A final check......
-For demo Purpose
+A demo for the video
 </td>
 </tr>
 </table>
